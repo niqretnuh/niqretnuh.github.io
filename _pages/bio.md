@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "A Short Bio"
+title: "Hunter Qin"
 author_profile: true
 redirect_from: 
   - /bio/
   - /bio.html
 ---
+
+<br>
 
 Hi! I’m **Hunter Qin**, a fourth-year accelerated BS/MS student in Computer Science and Mathematics at Vanderbilt University. My research explores the mathematical foundations of machine learning—especially **geometric deep learning**, **optimal transport**, and **representation learning**—and I aim to translate these theories into practical advances in vision and language transformers as well as biomedical discovery.
 
