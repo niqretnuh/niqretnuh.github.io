@@ -22,7 +22,7 @@ repository               : "https://github.com/niqretnuh/niqretnuh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Users/haoranqin/haoran-qin/images/profile.png"
+  avatar           : "profile.png"
   name             : "Hunter Qin"
   pronouns         : # example: "she/her"  
   location         : "Nashville, TN, USA"
